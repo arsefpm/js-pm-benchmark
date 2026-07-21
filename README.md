@@ -1,6 +1,6 @@
 **The benchmarks are now available [on the pnpm website](https://r.pnpm.io/benchmarks).**
 
-**The code that generates the benchmarks was moved [here](https://github.com/pnpm/pnpm.github.io/tree/main/benchmarks)**.
+**The code that generates the benchmarks was moved [here](https://github.com/pnpm/pnpm.io/tree/main/benchmarks)**.
 
 ***
 
